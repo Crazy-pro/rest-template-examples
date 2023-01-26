@@ -16,9 +16,8 @@ This repository is an example application for learning RestTemplate features.
   - Spring (Boot, Core, Data, WebFLux, Test);
   - Hibernate.
 - IDE: IntelliJ IDEA;
-- Database: H2;
 - Tools: Junit 4, Mockito, Lombok, Postman, Maven, Git, HTTPs, XML, YAML, JSON;
-- Others: GitHub, CircleCI, CodeCov, SonarLint, SonarCloud.
+- Others: GitHub, CircleCI, CodeCov, SonarLint, SonarCloud, HTML, CSS, ThymeLeaf.
 
 [![CircleCI](https://circleci.com/gh/Crazy-pro/rest-template-examples.svg?style=svg)](https://app.circleci.com/gh/Crazy-pro/rest-template-examples)
 [![CodeCov](https://codecov.io/gh/Crazy-pro/rest-template-examples/branch/master/graph/badge.svg)](https://codecov.io/gh/Crazy-pro/rest-template-examples)

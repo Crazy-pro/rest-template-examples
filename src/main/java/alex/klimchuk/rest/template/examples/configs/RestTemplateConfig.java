@@ -1,4 +1,4 @@
-package alex.klimchuk.rest.template.examples.api.configs;
+package alex.klimchuk.rest.template.examples.configs;
 
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package alex.klimchuk.rest.template.examples.api;
+package alex.klimchuk.rest.template.examples;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import org.junit.Test;

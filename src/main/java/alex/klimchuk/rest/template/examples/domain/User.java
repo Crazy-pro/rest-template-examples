@@ -1,4 +1,4 @@
-package alex.klimchuk.rest.template.examples.api.domain;
+package alex.klimchuk.rest.template.examples.domain;
 
 import lombok.*;
 

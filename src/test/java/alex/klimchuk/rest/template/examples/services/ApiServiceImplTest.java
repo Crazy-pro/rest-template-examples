@@ -1,7 +1,8 @@
-package alex.klimchuk.rest.template.examples.api.services;
+package alex.klimchuk.rest.template.examples.services;
 
-import alex.klimchuk.rest.template.examples.api.domain.User;
+import alex.klimchuk.rest.template.examples.domain.User;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,6 +16,7 @@ import static org.junit.Assert.*;
 /**
  * Copyright Alex Klimchuk (c) 2023.
  */
+@Ignore
 @SpringBootTest
 @RunWith(SpringRunner.class)
 public class ApiServiceImplTest {

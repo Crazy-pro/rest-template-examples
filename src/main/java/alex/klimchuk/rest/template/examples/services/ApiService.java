@@ -1,6 +1,6 @@
-package alex.klimchuk.rest.template.examples.api.services;
+package alex.klimchuk.rest.template.examples.services;
 
-import alex.klimchuk.rest.template.examples.api.domain.User;
+import alex.klimchuk.rest.template.examples.domain.User;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 

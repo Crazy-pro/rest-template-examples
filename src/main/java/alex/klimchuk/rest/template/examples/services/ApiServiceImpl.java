@@ -1,7 +1,7 @@
-package alex.klimchuk.rest.template.examples.api.services;
+package alex.klimchuk.rest.template.examples.services;
 
-import alex.klimchuk.rest.template.examples.api.domain.User;
-import alex.klimchuk.rest.template.examples.api.domain.UsersData;
+import alex.klimchuk.rest.template.examples.domain.User;
+import alex.klimchuk.rest.template.examples.domain.UsersData;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;

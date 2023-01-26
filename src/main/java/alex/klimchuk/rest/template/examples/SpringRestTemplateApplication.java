@@ -1,4 +1,4 @@
-package alex.klimchuk.rest.template.examples.api;
+package alex.klimchuk.rest.template.examples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
