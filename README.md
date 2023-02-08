@@ -1,5 +1,5 @@
 ### Rest Template Examples
-This repository is an example application for learning RestTemplate features.
+This repository is an example application for learning RestTemplate features. 
 
 
 
