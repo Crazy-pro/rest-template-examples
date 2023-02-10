@@ -1,7 +1,7 @@
 ### Rest Template Examples
 This repository is an example application for learning RestTemplate features. 
 
-
+ 
 
 ### How to start:
 1. Install and run any IDE for working with Java.
