@@ -2,7 +2,7 @@
 This repository is an example application for learning RestTemplate features. 
 
  
-
+ 
 ### How to start:
 1. Install and run any IDE for working with Java.
 2. Run the application and check end-points work using Postman and link below:
